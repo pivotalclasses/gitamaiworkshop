@@ -1,0 +1,10 @@
+<data>
+   <student name="krish">
+      <item name="expertise1" score="30">SQL</item>
+      <item name="expertise2" score="18">Python</item>
+   </student>
+   <student name="vidya">
+      <item name="expertise1" score="20">Java</item>
+      <item name="expertise2" score="31">Oracle</item>
+   </student>
+</data>
